@@ -1,0 +1,6 @@
+#Rename files in a directory
+touch file1 file2 file3
+mv file1.yml
+mv file2.yml
+mv file3.yml
+
