@@ -1,4 +1,0 @@
-#Copy files from one directory to another
-
-cp source_directory/* destination_directory/
-
