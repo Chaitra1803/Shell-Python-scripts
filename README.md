@@ -8,8 +8,13 @@
 4.Prompt user for input and perform calculation - add, sub, multiply, divide
 
 5.Display system information
+
 6.Count the number of lines in a file
+
 7.Copy files from one directory to another
+
 8.Check if a website is up or down
+
 9.Convert all files in a directory to lowercase
+
 10.System monitoring scripts, log analysis scripts and Log rotation scripts
